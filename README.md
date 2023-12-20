@@ -45,5 +45,5 @@ if (typeof list[0] === "object") {
 1. Drag the script called "SortListBy" into a script or event handler
 2. Enter values for the script input parameters
    1. List: A List of objects or values
-   2. SortBy: An object key to sort the list by
+   2. SortBy: An key to sort the list by (objects only)
 3. Result: The script returns a sorted list of objects or values
