@@ -14,7 +14,7 @@ A script to sort a list of objects by a given key
 3. Add the output parameter below to the Global Script
    1. Result
 4. Drag a *JavaScript* action into the script
-5. Add the Javascript below into the JavaScript code property
+5. Add the Javascript below unchanged into the JavaScript code property
 ```javascript
 /* Stadium Script 1.0 https://github.com/stadium-software/utils-sort-array-by */
 let list = ~.Parameters.Input.List;
